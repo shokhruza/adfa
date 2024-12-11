@@ -1,0 +1,11 @@
+                       00P-Object Oriented Programming(Obyektga qaratilgan dasturlash)
+
+OOP - method,class,konstruktor,object
+
+OOP tamoillari - inhertance,encapsulation,abstraction,polymorhism
+
+Inhertance - single,hybrid,multiple,multilevel,hirarchical
+
+Encapsulation - public,private,protected
+
+Polymorhism - overloading(boshqa tillarda),overreading(Pythonda)
