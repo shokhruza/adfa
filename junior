@@ -1,11 +1,11 @@
 1. Python fayl kengaytmasi qanday bo'ladi?
 A) .java
-B) .py ✓
+B) .py
 C) .html
 D) .css
 
 2. Qaysi operator qo'shish uchun ishlatiladi?
-A) + ✓
+A) +
 B) -
 C) *
 D) /
@@ -13,11 +13,11 @@ D) /
 3. Qaysi usul bilan Python dasturida izoh (comment) qo'shish mumkin?
 A) //
 B) /* */
-C) #     ✓
+C) #
 D) --
 
 4. O'zgaruvchilarni qisqa nomlash qoidalaridan qaysi biri noto'g'ri?
-A) Raqam bilan boshlanmaydi    ✓
+A) Raqam bilan boshlanmaydi
 B) Faqat harflar bilan yoziladi
 C) Faqat matematik belgilar bo'lishi kerak
 D) O'zgaruvchi nomi python kalit so'zlaridan boshlanmaydi
@@ -30,12 +30,12 @@ print(x + y)
 
 A) 53
 B) 15
-C) 8   ✓
+C) 8
 D) 35
 
 
-6. Pythonda qanday qilib satr (string) yoziladi?
-A) " yoki ' ichiga yoziladi       ✓
+6. Pythonda qanday qilib str (string) yoziladi?
+A) " yoki ' ichiga yoziladi
 B) Matematika belgilaridan foydalaniladi
 C) [ va ] ichiga yoziladi
 D) Faqat """ bilan yoziladi
@@ -45,17 +45,17 @@ D) Faqat """ bilan yoziladi
 7. Pythonda qanday ma'lumot turi mavjud emas?
 A) String
 B) List
-C) Text   ✓
+C) Text
 D) Float
 
 
-8. Quyidagi kodda x qiymati nima bo'ladi?
+8. Quyidagi kodda x qiymati nimaga teng bo'ladi?
 x = "Salom"
 x = 5
 print(x)
 
 A) "Salom"
-B) 5     ✓
+B) 5
 C) "5"
 D) Xato beradi
 
@@ -66,13 +66,13 @@ y = "10"
 print(x == y)
 
 A) True
-B) False   ✓
-C) Xato    beradi
+B) False
+C) Xato beradi
 D) 1010
 
-10. Pythonda qanday qilib bir nechta satrga bo'lingan string yozamiz?
+10. Pythonda qanday qilib bir nechta qatorga bo'lingan string yozamiz?
 
-A) """ yoki ''' bilan   ✓
+A) """ yoki ''' bilan
 B) [ ] bilan
 C) // bilan
 D) .split() funksiyasi bilan
