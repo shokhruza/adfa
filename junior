@@ -16,11 +16,11 @@ B) /* */
 C) #     ✓
 D) --
 
-4. O'zgaruvchilar nomlash qoidalaridan biri qaysi?
+4. O'zgaruvchilarni qisqa nomlash qoidalaridan qaysi biri noto'g'ri?
 A) Raqam bilan boshlanmaydi    ✓
-B) Faqat bosh harflar bilan yoziladi
+B) Faqat harflar bilan yoziladi
 C) Faqat matematik belgilar bo'lishi kerak
-D) O'zgaruvchi nomini cheklash shart emas
+D) O'zgaruvchi nomi python kalit so'zlaridan boshlanmaydi
 
 
 5. Quyidagi kod natijasi nima?
@@ -52,6 +52,7 @@ D) Float
 8. Quyidagi kodda x qiymati nima bo'ladi?
 x = "Salom"
 x = 5
+print(x)
 
 A) "Salom"
 B) 5     ✓
